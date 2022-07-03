@@ -18,3 +18,6 @@ Apache HTTP Server is the most widely used web server software. Developed and ma
 
 The Apache web server is among the most popular web servers in the world. It’s well documented, has an active community of users, and has been in wide use for much of the history of the web, which makes it a great default choice for hosting a website.
 ![text2](https://user-images.githubusercontent.com/108102087/177055421-668a4023-d713-4399-b4d8-b297ab462252.PNG)
+
+## STEP 2 — INSTALLING MYSQL
+![text3](https://user-images.githubusercontent.com/108102087/177055603-40b54f84-ecc1-4c59-b7d0-58e5cecfbb82.PNG)
