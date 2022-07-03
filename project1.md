@@ -21,3 +21,4 @@ The Apache web server is among the most popular web servers in the world. It’s
 
 ## STEP 2 — INSTALLING MYSQL
 ![text3](https://user-images.githubusercontent.com/108102087/177055603-40b54f84-ecc1-4c59-b7d0-58e5cecfbb82.PNG)
+![text4](https://user-images.githubusercontent.com/108102087/177056031-ffd09ad0-5174-4d35-b8f7-47bf7a64c61c.PNG)
