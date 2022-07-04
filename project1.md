@@ -31,3 +31,7 @@ You have Apache installed to serve your content and MySQL installed to store and
 ![text6](https://user-images.githubusercontent.com/108102087/177062737-0fb4a556-6814-44a8-9868-730cf0e9f9b7.PNG)
 
 ![text7](https://user-images.githubusercontent.com/108102087/177063032-f764d6d0-9e73-4fdb-a99e-7891e15ae06a.PNG)
+
+## STEP 4 — CREATING A VIRTUAL HOST FOR YOUR WEBSITE USING APACHE
+
+![text8](https://user-images.githubusercontent.com/108102087/177063813-c7ef2931-cb95-467f-a0bb-750f5256e281.PNG)
