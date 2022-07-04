@@ -35,3 +35,7 @@ You have Apache installed to serve your content and MySQL installed to store and
 ## STEP 4 — CREATING A VIRTUAL HOST FOR YOUR WEBSITE USING APACHE
 
 ![text8](https://user-images.githubusercontent.com/108102087/177063813-c7ef2931-cb95-467f-a0bb-750f5256e281.PNG)
+
+## STEP 5 — ENABLE PHP ON THE WEBSITE
+
+![text9](https://user-images.githubusercontent.com/108102087/177064496-e169ebb9-6ff3-4db0-a05a-7f63eabb1607.PNG)
