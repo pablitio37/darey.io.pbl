@@ -23,3 +23,11 @@ The Apache web server is among the most popular web servers in the world. It’s
 ![text3](https://user-images.githubusercontent.com/108102087/177055603-40b54f84-ecc1-4c59-b7d0-58e5cecfbb82.PNG)
 ![text4](https://user-images.githubusercontent.com/108102087/177056031-ffd09ad0-5174-4d35-b8f7-47bf7a64c61c.PNG)
 ![text5](https://user-images.githubusercontent.com/108102087/177056186-1072241d-0331-41b6-9aeb-87d000837e25.PNG)
+
+## STEP 3 — INSTALLING PHP
+
+You have Apache installed to serve your content and MySQL installed to store and manage your data. PHP is the component of our setup that will process code to display dynamic content to the end user. In addition to the php package, you’ll need php-mysql, a PHP module that allows PHP to communicate with MySQL-based databases. You’ll also need libapache2-mod-php to enable Apache to handle PHP files. Core PHP packages will automatically be installed as dependencies.
+
+![text6](https://user-images.githubusercontent.com/108102087/177062737-0fb4a556-6814-44a8-9868-730cf0e9f9b7.PNG)
+
+![text7](https://user-images.githubusercontent.com/108102087/177063032-f764d6d0-9e73-4fdb-a99e-7891e15ae06a.PNG)
